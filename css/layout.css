@@ -36,5 +36,8 @@
 
 .first {
   clear: both;
+}
+
+.add-margin {
   margin-right: 2%;
 }
